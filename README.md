@@ -11,7 +11,7 @@
 
 <p align="left">
   
-[![Profile](https://github-readme-stats.vercel.app/api?username=yigitkeremoktay&show_icons=true&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C)](#)
+[![Profile](https://github-readme-stats.vercel.app/api?username=yigitkeremoktay&show_icons=true&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C&count_private=true)](#)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yigitkeremoktay&border_color=444C56&border_radius=6&bg_color=22272E&title_color=539bf5&text_color=cdd9e5&icon_color=EC775C&langs_count=5&custom_title=Last%20Week)](#)
 
